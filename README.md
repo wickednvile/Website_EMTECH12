@@ -1,2 +1,2 @@
-# Website_EMTECH12
-Our performance task in EMPOWERMENT TECHNOLOGY.
+# Website about crazy stuff
+What do we put here? or remove README.md?
