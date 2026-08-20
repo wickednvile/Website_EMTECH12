@@ -2,5 +2,8 @@ body {
     background-color: white;
     color: black;
     font-family: Arial;
+}
+
+div {
     text-align: center;
 }
